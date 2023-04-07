@@ -1,2 +1,5 @@
 # Open-Watermark
-Open source tool to add watermark for photos. 开源相机加水印工具。
+
+We will release an open source tool to add watermark for photos. 
+
+Codes are coming soon!⚡️
